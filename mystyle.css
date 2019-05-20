@@ -1,2 +1,5 @@
-body {background-image: url("mybackground.jpg"); background-repeat: no-repeat; background-size: auto;}
+body 
+{background-image: url("mybackground.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;}
 
