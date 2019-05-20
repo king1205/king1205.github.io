@@ -1,3 +1,2 @@
-body {background-image: url("mybackground.jpg");}
-navtable{width:100%;}
-navtd {width:20%; text-align:center;}
+body {background-image: url("mybackground.jpg"); background-repeat: no-repeat; background-size: auto;}
+
